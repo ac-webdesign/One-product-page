@@ -7,6 +7,7 @@
 }
 body{
     background-color: #232425;   
+    scroll-behavior: smooth;
 }
 .logo{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -25,7 +26,6 @@ li{
 li:hover{
     /* color: #97a833; */
     color: #e6c06f;
-
 }
 .logo span{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
